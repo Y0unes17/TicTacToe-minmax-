@@ -5,9 +5,9 @@ To solve games using AI, we will introduce the concept of a game tree followed b
 Each node on the second level, would further have as its children nodes the states that can be reached from it by the opposing player's moves. This is continued, level by level, until reaching states where the game is over. In tic-tac-toe, this means that either one of the players gets a line of three and wins, or the board is full and the game ends in a tie.
 </p>
 
-<p align="left" >
-  <img src="https://github.com/Y0unes17/TicTacToe-minmax-/blob/master/image/1.png?raw=true" width="480" />
-  <img src="https://github.com/Y0unes17/TicTacToe-minmax-/blob/master/image/3.png?raw=true" width="480"/>
+<p align="center">
+  <img src="https://github.com/Y0unes17/TicTacToe-minmax-/blob/master/image/1.png?raw=true" width="400" />
+  <img src="https://github.com/Y0unes17/TicTacToe-minmax-/blob/master/image/3.png?raw=true" width="400"/>
 </p>
 <p align="center" >
   <img src="https://github.com/Y0unes17/TicTacToe-minmax-/blob/master/image/4.png?raw=true" />
